@@ -10,3 +10,7 @@ body {
 .active {
   @apply border-b-4 border-primary;
 }
+
+.badge {
+  @apply absolute rounded-full bg-red-500 text-white w-5 h-5 pt-0.5 text-xs text-center bottom-7 left-7;
+}

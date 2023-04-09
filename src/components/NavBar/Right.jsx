@@ -9,7 +9,7 @@ const Right = () => {
             </div>
 
             <div className="option bg-body p-2 rounded-full relative hover:bg-gray-200 cursor-pointer">
-                <p className="badge absolute rounded-full bg-red-500 text-white w-5 h-5 pt-0.5 text-xs text-center bottom-7 left-7">
+                <p className="badge">
                     1
                 </p>
 
@@ -19,8 +19,8 @@ const Right = () => {
             </div>
 
             <div className="option bg-body p-2 rounded-full relative hover:bg-gray-200 cursor-pointer">
-                <p className="badge absolute rounded-full bg-red-500 text-white w-5 h-5 pt-0.5 text-xs text-center bottom-7 left-7">
-                    1
+                <p className="badge">
+                    8
                 </p>
 
                 <svg className="w-6 md:w-7" aria-hidden="true" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

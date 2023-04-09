@@ -1,5 +1,5 @@
-import NavBar from '/src/components/NavBar'
-import './index.css'
+import NavBar from 'components/NavBar'
+import 'src/index.css'
 
 const App = () => {
   return (
